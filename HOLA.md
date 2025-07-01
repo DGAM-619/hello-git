@@ -7,5 +7,5 @@
 *dgam.dev envio de cambio de practica
 
 * Ya se que hizo un commit dgam.dev
-* 
+* Quiero conservar estas lineas, con la esperanza de crear conflicto
 
